@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GIMME GIMME GIMME",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-04T13:59:21.876592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/01_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimme,Gimme,Gimme",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/02_Gimme,Gimme,Gimme_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimme Gimme Gimme",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/03_Gimme_Gimme_Gimme_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GIMME! GIMME! GIMME! (A Man After Midnight)",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/04_GIMME!_GIMME!_GIMME!_(A_Man_After_Midnight)_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gimme, Gimme, Gimme",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/05_Gimme,_Gimme,_Gimme_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme!",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/06_Gimme!_Gimme!_Gimme!_Erasure.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! - BBC Radio One Session - 10 March 1987",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/07_Gimme!_Gimme!_Gimme!_-_BBC_Radio_One_Session_-_10_March_1987_Erasure.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (Live at the Knopf Music Halle, Hamburg)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/08_Gimme!_Gimme!_Gimme!_(Live_at_the_Knopf_Music_Halle,_Hamburg)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (Live)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/09_Gimme!_Gimme!_Gimme!_(Live)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (Remix) [2011 Remastered Version]",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/10_Gimme!_Gimme!_Gimme!_(Remix)_[2011_Remastered_Version]_Erasure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "Amberian Dawn",
+      "has_synced": true,
+      "path": "select/11_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_Amberian_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/12_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/13_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gimme Gimme Gimme (with Patti Austin)",
+      "artist": "Narada Michael Walden feat. Patti Austin",
+      "has_synced": true,
+      "path": "select/14_Gimme_Gimme_Gimme_(with_Patti_Austin)_Narada_Michael_Walden_feat._Patti_Austin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gimme Gimme Gimme (with Patti Austin)",
+      "artist": "Narada Michael Walden, Patti Austin",
+      "has_synced": true,
+      "path": "select/15_Gimme_Gimme_Gimme_(with_Patti_Austin)_Narada_Michael_Walden,_Patti_Austin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/16_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight )",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/17_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight_)_ABBA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIMME GIMME GIMME",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_GIMME_GIMME_GIMME_Tommy_february6.txt"
+    }
+  ]
+}
